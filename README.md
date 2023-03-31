@@ -1,12 +1,12 @@
 # relay-controller-with-usb-port
 This project is for controlling I/O's (such relays) with usb port using USB to TTL
 
-![screenshot1](./images/pcb3.png)
+![screenshot](./images/pcb3.png)
 
 ### PCB Project Folder
 This folder contains PCB and schematic of project.
-![screenshot2](./images/pcb1.png)
-![screenshot3](./images/pcb2.png)
+![screenshot](./images/pcb1.png)
+![screenshot](./images/pcb2.png)
 
 ### codes
 This folder contains the python and arduino based atmega328 codes to run and use.<br>
