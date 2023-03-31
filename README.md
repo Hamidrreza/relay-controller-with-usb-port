@@ -13,8 +13,8 @@ Code examples are simple and just for controlling one I/O (pin 13). in future I'
 
 - instead of atmega328 we also can use atmega8a because the pins are exactly the same.
 
-![screenshot](./images/pcb1.png)
-![screenshot](./images/pcb2.png)
+![screenshot2](./images/pcb1.png)
+![screenshot3](./images/pcb2.png)
 
 # TODO:
 - [ ] write codes for all I/O's
