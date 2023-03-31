@@ -1,7 +1,7 @@
 # relay-controller-with-usb-port
 This project is for controlling I/O's (such relays) with usb port using USB to TTL
 
-![screenshot](pcb-photo.png)
+![screenshot](pcb-photo.PNG)
 
 ### PCB Project Folder
 This folder contains PCB and schematic of project.
